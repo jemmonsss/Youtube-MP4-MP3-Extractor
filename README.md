@@ -40,8 +40,10 @@ If you prefer not to build the project yourself, you can download the executable
 
 3. **Run the Application:**
 
+   Run the provided `run.bat` file by double-clicking it or from a command prompt:
+   
    ```bash
-   Run The `run.bat`
+   run.bat
    ```
 
    When running from the main branch, click the **Download** button once to trigger the FFmpeg installation. This step ensures that FFmpeg is automatically downloaded into the `scripts` folder if it isn’t already present.
