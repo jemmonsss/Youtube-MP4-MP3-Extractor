@@ -1,6 +1,4 @@
-Below is a sample README.md you can include in your GitHub repository:
 
----
 
 # Youtube MP4/MP3 Extractor
 
@@ -66,6 +64,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests with
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-This README explains the project, provides instructions for both using the pre-built executable and building from source, and clarifies the FFmpeg installation behavior. You can adjust the text as needed for your project.
