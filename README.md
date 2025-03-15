@@ -41,7 +41,7 @@ If you prefer not to build the project yourself, you can download the executable
 3. **Run the Application:**
 
    ```bash
-   python main.py
+   Run The "run.bat"
    ```
 
    When running from the main branch, click the **Download** button once to trigger the FFmpeg installation. This step ensures that FFmpeg is automatically downloaded into the `scripts` folder if it isn’t already present.
